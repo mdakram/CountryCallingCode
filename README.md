@@ -19,7 +19,7 @@ The functions are simple:
 
 3) Convenient function to get currency code of the selected country
 
-3) User can use dialing code of selected country
+4) User can use dialing code of selected country
 
 
 ## About
